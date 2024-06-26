@@ -1,0 +1,13 @@
+mungkin sebelum di jalankan coba buka terminal lalu 
+
+cd backend
+
+lalu
+
+npm i express mysql2 sequelize cors 
+
+lalu cek nodemon -v jika ada versi lanjut
+
+lalu nodemon index
+
+selesai
